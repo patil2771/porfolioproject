@@ -4,7 +4,7 @@
  basically its is a data exploartion project we exploaring ths data of covid_19deaths and covid_19vaccinations.
 
  
- I download this dataset from  url:- "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXBFR0RqaGxUSEVvZnFtR3VsMmJhYW5DWENiZ3xBQ3Jtc0traUI1ZjcwZ0tqeXgtS244NUpkX2l4WEtoOFd0dktQX3poNmo1N0ZaSDcySlRZMUF6ZGU5ajdLZ2xtTkRpMDRaN2RrbmdlOUo0Z1dTM29vWjlCWlRBelVic3dTdjZmR1VmX2JKbS0xUnFXdGI2RDd3UQ&q=https%3A%2F%2Fourworldindata.org%2Fcovid-deaths&v=qfyynHBFOsM"
+ I download this dataset from  url:- "https://ourworldindata.org/covid-deaths"
 
 An INNER JOIN is a type of join operation in SQL that combines rows from two or more tables based on a related column between them. It returns only the rows that have matching values in both tables. we have to find total deaths vs total vaccinations for the we need to join the two tables. so the tables which are common in this are locations and date. we join this two tables using these two parameters. here we are looking for that what is the total population and how many people got vaccinated
 ![Screenshot (71)](https://github.com/patil2771/porfolioproject/assets/52596045/4fe73514-fa60-4c97-a2b6-e7e19c308739)
