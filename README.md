@@ -17,3 +17,5 @@ covid_19 porfolio project
 ![Screenshot (70)](https://github.com/patil2771/porfolioproject/assets/52596045/b36f8ddd-59ef-49f9-b501-7319bf587abb)
 ![Screenshot (71)](https://github.com/patil2771/porfolioproject/assets/52596045/370a0927-802c-485e-ae5f-6e1a81407645)
 ![Screenshot (72)](https://github.com/patil2771/porfolioproject/assets/52596045/0663155e-9e21-4ca3-ad87-28e77c988e63)
+![Screenshot (73)](https://github.com/patil2771/porfolioproject/assets/52596045/a8f6aeb8-546a-46ed-9464-965ed063e197)
+![Screenshot (74)](https://github.com/patil2771/porfolioproject/assets/52596045/60210062-8028-4605-bb84-ebcf33fd0c4e)
