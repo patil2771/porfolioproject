@@ -1,5 +1,4 @@
-# porfolioproject
-covid_19 porfolio project
+# covid_19 porfolio project
  In the covid_19 dataset I perform some data manipulation operation to exlpore the dataset.
  In this we perform SQL queris such as temp tables, cte's(common table expressions), using some subqeries, joins, where clause etc.
  basically its is a data exploartion project we exploaring ths data of covid_19deaths and covid_19vaccinations.
